@@ -3,7 +3,7 @@ title: HTR406 \linebreak Turkey's 1960 Military Coup d'Etat
 author: Mehdi Saffar - 2016400411
 date: \today{}
 documentclass: article
-geometry: margin=2cm
+geometry: margin=2.5cm
 header-includes:
     - \usepackage{setspace}
     - \doublespacing
@@ -52,7 +52,7 @@ Celal Bayar, ex-member of the RPP that was unhappy with its policies,
 presided the new DP government, with Adnan Menderes as his Prime Minister.
 [^1] The newly formed government was committed to economic growth. The DP
 aimed to achieve this progress mainly by reducing state interference and
-allowing for more liberal economic policies. [^2] 
+allowing for more liberal economic policies. 
 
 In the first few years, it seemed that the DP was successful at bringing
 change to the economic situation. Good harvest in 1950 and 1953 helped
@@ -60,7 +60,7 @@ temporarily alleviate the problems, while the Korean War, which was the first
 war fought by Turkish forces on foreign soil, caused an economic boom and
 allowed Turkey, after nearly 30 years of neutrality towards international
 affairs, to join the United Nations and secure its role as a strong leader in
-the Middle East region.[^3] [^4] 
+the Middle East region.[^2] [^4] 
 
 Unfortunately, this economic upheaval didn't last for long and problems
 started to appear in 1953. Poor harvest in the next few years wasn't enough
@@ -72,7 +72,7 @@ its history, which averaged 15% annually drowning Turkey even more into an
 economic depression. The Democratic Party tried to mitigate the effects of
 the inflation by controlling the prices through legislation with no success.
 Its continually rising public expenditure led to the prices soaring even
-more, making the DP less and less popular in the eyes of the people. [^5]
+more, making the DP less and less popular in the eyes of the people. [^2]
 
 The Democratic Party was now facing mounting criticism both from its members and
 outside environment. The RPP accused DP of trying to reverse the achievements of
@@ -101,13 +101,13 @@ would allow for the confiscation of most of the RP's property and assets on
 December 9 1953. [^9] This fueled even stronger opposition attacks, which
 accused the DP of unconstitutional actions. The DP, fearing reprisal and a
 revolution, whirled in a spiral of increasing repression to increasing
-protests and discontent. [^10]
+protests and discontent. [^6]
 
 Another important aspect to consider is the attitude DP had towards the military
 institution. During this period, the cost of living soared and the military was
 neglected, suffocating officers and soldiers alike to the point of humiliation.
 In Ankara, cheap basement flats were called "Staff-Officer flats", and officers
-"lemonaders" because they couldn't afford the more expensive drinks.[^11] People were
+"lemonaders" because they couldn't afford the more expensive drinks. People were
 disappointed at the DP for not sticking to its promised programme that was
 intended to improve the situation of the military. The DP did not understand the
 importance of the military in Turkish society and thought it was more
@@ -145,7 +145,7 @@ Radio:
 > purpose of extricating the parties from the irreconcilable situation into
 > which they have fallen … (and will hold) just and free elections as soon
 > as possible under the supervision and arbitration of an above-party
-> administration. [^15]
+> administration. 
 
 The military took over the power and declared Marshal Law. The coup was to
 last only 18 months. At the beginning, the roadmap of the junta was not
@@ -208,7 +208,7 @@ The actions taken by the NUC did not stop at the Democratic Party and its
 members. A country-wide purge was launched, which resulted in over 5000
 officers dismissed or retired, including 235 of the 260 generals, 147
 university teachers dismissed, and 55 wealthy landowners banished from Turkey,
-with their lands confiscated.[^21]
+with their lands confiscated.[^19]
 
 After the 1960 coup "Yassıada" name was remembered negatively, which led the
 island to be renamed as "Democracy and Freedom Island" on November 7, 2013 [^20]
@@ -216,7 +216,7 @@ island to be renamed as "Democracy and Freedom Island" on November 7, 2013 [^20]
 ## Back to civilian life
 After the constitution was drafted, the referendum of July 9, 1961 took place
 for the first time in Turkish Republic history. Out of 10,322,169 votes,
-6,348,191 (61.7%) of them accepted the new constitution. [^23] While the number is
+6,348,191 (61.7%) of them accepted the new constitution.  While the number is
 above 50% percent, it leaves to wonder why 40% voted against it. This percentage
 can be interpreted as lukewarm support. People were skeptic of the new
 constitution and the military regime behind it. They feared a return to the
@@ -225,7 +225,7 @@ Representatives when the constitution was prepared. [^24]
 
 Once the new constitution was ratified, the army, as promised, withdrew from
 direct political involvement. The NUC however retained some influence through its
-members in the Republican Senate. [^25]
+members in the Republican Senate. [^18]
 
 # Criticism
 The 1960's coup d'état is not without opposing views. Some people view the 1960
@@ -276,7 +276,7 @@ and needed to be dealt with in some way or another. In fact, it was no
 surprise that Colonel Alparslan Türkeş would be the one orchestrating the
 coup plot. He was member of the junta and had been among the first 16
 officers trained by the US in 1948 to form a stay-behind counter-guerilla,
-codenamed Operation Gladio, whose existence in Turkey was revealed in 1973 by
+codenamed Operation Gladio, whose existence in Turkey was revealed by
 survivors of the Ziverbey incident in 1971 and officially on 26 September
 1973 by the then-prime minister Bulent Ecevit. [^27]
 
@@ -309,34 +309,24 @@ Eastern's conflicting interests and guarantees its territorial integrity.
 
 \pagebreak
 
-[^1]: [@br].
-[^2]: [@br].
-[^3]: [@br].
-[^4]: [@frb].
-[^5]: [@br].
-[^6]: [@br].
-[^7]: [@bb].
-[^8]: [@bb].
-[^9]: [@bb].
-[^10]: [@br].
-[^11]: [@b].
-[^12]: [@b].
-[^13]: [@bb].
-[^14]: [@b].
-[^15]: [@bb].
-[^16]: [@bb].
-[^17]: [@b].
-[^18]: [@br].
-[^19]: [@br].
+[^1]: [@br] Turkey under the Democrats, 1950–60.
+[^2]: [@br] Turkey under the Democrats, 1950–60, The economy.
+[^4]: [@frb] page 92.
+[^6]: [@br] Turkey under the Democrats, 1950–60, Political repression.
+[^7]: [@bb] page 2.
+[^8]: [@bb] page 56.
+[^9]: [@bb] page 6.
+[^11]: [@b] page 123-124.
+[^13]: [@bb] page 54.
+[^14]: [@b] page 125-126.
+[^16]: [@bb] page 15, page 28-29.
+[^17]: [@b] page 183.
+[^18]: [@br] The military coup of 1961, The consitution of 1961.
+[^19]: [@br] The military coup of 1961, The National Unity Committee.
 [^20]: [@wiki].
-[^21]: [@br].
-[^22]: [@bb].
-[^23]: [@bb].
-[^24]: [@bb].
-[^25]: [@br].
+[^22]: [@bb] page 27.
+[^24]: [@bb] page 23, .
 [^26]: [@wiki_truman].
-[^26]: [@wiki_coup].
-
-
+[^27]: [@wiki_guerrilla]
 
 # References
